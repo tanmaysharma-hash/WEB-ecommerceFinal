@@ -1,0 +1,1282 @@
+[
+  {
+    "_id": "0ad65e69-7ea0-4af8-b24d-9549ec8c0801",
+    "name": "Mobiles Product 1",
+    "description": "Quality join against magazine single six.",
+    "price": 47062,
+    "image": "https://picsum.photos/seed/Mobiles0/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "8e281c3f-652b-4400-b94c-26b3ba60453b",
+    "name": "Mobiles Product 2",
+    "description": "No manager sell everyone green.",
+    "price": 1660,
+    "image": "https://picsum.photos/seed/Mobiles1/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "b1173289-138a-4e2a-8788-99bff94c9fa9",
+    "name": "Mobiles Product 3",
+    "description": "These respond contain pay wife college.",
+    "price": 92629,
+    "image": "https://picsum.photos/seed/Mobiles2/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "fffce898-4408-40d7-be39-bd59fdae9f9b",
+    "name": "Mobiles Product 4",
+    "description": "Now forward detail reach challenge site.",
+    "price": 51690,
+    "image": "https://picsum.photos/seed/Mobiles3/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "16d25520-2cc6-44be-8ce2-1649f72b5a64",
+    "name": "Mobiles Product 5",
+    "description": "Place chair effect change low within experience current figure size.",
+    "price": 23325,
+    "image": "https://picsum.photos/seed/Mobiles4/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "485fba74-5d50-4d94-bbe7-0158418d8143",
+    "name": "Mobiles Product 6",
+    "description": "Put hundred federal hair near.",
+    "price": 84494,
+    "image": "https://picsum.photos/seed/Mobiles5/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "9e3caef1-0b18-4544-af92-16b9e73bb9c9",
+    "name": "Mobiles Product 7",
+    "description": "Three model talk notice reflect health.",
+    "price": 61377,
+    "image": "https://picsum.photos/seed/Mobiles6/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "8b05e3ff-f39a-43db-ab90-902fa67cd5f4",
+    "name": "Mobiles Product 8",
+    "description": "Course expect force skill responsibility become.",
+    "price": 97389,
+    "image": "https://picsum.photos/seed/Mobiles7/200/150",
+    "category": "Mobiles"
+  },
+  {
+    "_id": "0005595c-2aba-4724-8d79-e0eb6dfb7871",
+    "name": "Laptops Product 1",
+    "description": "Congress once recognize beyond piece.",
+    "price": 45652,
+    "image": "https://picsum.photos/seed/Laptops0/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "c8d77962-6779-4d6f-9129-ee490f3409da",
+    "name": "Laptops Product 2",
+    "description": "Need action attack deep range sing my.",
+    "price": 19553,
+    "image": "https://picsum.photos/seed/Laptops1/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "3ebb9ccb-3f59-454d-a676-e14dbd59a92a",
+    "name": "Laptops Product 3",
+    "description": "Perhaps space newspaper chair road special finish perhaps.",
+    "price": 9843,
+    "image": "https://picsum.photos/seed/Laptops2/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "da868faa-f2d6-4589-a3da-ca0d07838750",
+    "name": "Laptops Product 4",
+    "description": "School help young huge own herself probably dinner term plant.",
+    "price": 23906,
+    "image": "https://picsum.photos/seed/Laptops3/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "923cb9b6-eee8-436b-8950-dd21f884fdab",
+    "name": "Laptops Product 5",
+    "description": "Discover together bill may policy.",
+    "price": 52274,
+    "image": "https://picsum.photos/seed/Laptops4/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "2625b368-516b-47a7-9b47-a4ad934adcd5",
+    "name": "Laptops Product 6",
+    "description": "Project future recent discover number save author.",
+    "price": 78543,
+    "image": "https://picsum.photos/seed/Laptops5/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "10114711-120a-4640-bfa4-4eebaf05f767",
+    "name": "Laptops Product 7",
+    "description": "Business quickly experience interesting list stock once find day.",
+    "price": 39044,
+    "image": "https://picsum.photos/seed/Laptops6/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "9a4d5d72-4efa-429e-b1ed-d2374b7e6be5",
+    "name": "Laptops Product 8",
+    "description": "Up recognize believe box however reduce available professor.",
+    "price": 98641,
+    "image": "https://picsum.photos/seed/Laptops7/200/150",
+    "category": "Laptops"
+  },
+  {
+    "_id": "e3dd5bf3-4e7a-4b32-a862-d2c22af87bf8",
+    "name": "Tablets Product 1",
+    "description": "Sound score by author same idea management three food all.",
+    "price": 37038,
+    "image": "https://picsum.photos/seed/Tablets0/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "91f65221-442c-4ae4-a146-d6e03c272237",
+    "name": "Tablets Product 2",
+    "description": "Resource manager remain indicate run third site her worker.",
+    "price": 15169,
+    "image": "https://picsum.photos/seed/Tablets1/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "33ce20cd-b9d5-4a69-a020-37a0252a51c3",
+    "name": "Tablets Product 3",
+    "description": "Simple may film try to.",
+    "price": 16104,
+    "image": "https://picsum.photos/seed/Tablets2/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "519e5012-2733-4789-8603-95d0da626ae1",
+    "name": "Tablets Product 4",
+    "description": "Senior news market physical tend education her shake series.",
+    "price": 44517,
+    "image": "https://picsum.photos/seed/Tablets3/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "357e2767-0410-4dbd-a53c-7bfcfbce0098",
+    "name": "Tablets Product 5",
+    "description": "Yet blood someone thing responsibility serious little father.",
+    "price": 77877,
+    "image": "https://picsum.photos/seed/Tablets4/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "6ff4b77a-ed45-4358-8d08-2f7a4b27666f",
+    "name": "Tablets Product 6",
+    "description": "Leave pass land while almost lose group practice bag friend.",
+    "price": 5151,
+    "image": "https://picsum.photos/seed/Tablets5/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "d93857f2-ef60-4e41-a430-c095d8bd0345",
+    "name": "Tablets Product 7",
+    "description": "Important traditional administration list control.",
+    "price": 65084,
+    "image": "https://picsum.photos/seed/Tablets6/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "b0f69beb-a450-4899-be3c-930bd2cf0b98",
+    "name": "Tablets Product 8",
+    "description": "Write center try mother pattern attack.",
+    "price": 45562,
+    "image": "https://picsum.photos/seed/Tablets7/200/150",
+    "category": "Tablets"
+  },
+  {
+    "_id": "7b824c2b-0a73-41d8-834e-539843aa2965",
+    "name": "Watches Product 1",
+    "description": "Thought administration make spend edge record.",
+    "price": 39460,
+    "image": "https://picsum.photos/seed/Watches0/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "46ee0fc6-0315-4ae8-8ebe-edf75d7028e2",
+    "name": "Watches Product 2",
+    "description": "Mind list community laugh fish necessary leader news gas.",
+    "price": 19364,
+    "image": "https://picsum.photos/seed/Watches1/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "fe75dde2-65f2-490e-bedf-9e3d20b09305",
+    "name": "Watches Product 3",
+    "description": "Tax production test continue.",
+    "price": 57437,
+    "image": "https://picsum.photos/seed/Watches2/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "2ca12c1b-289d-4906-a14a-4b0907648970",
+    "name": "Watches Product 4",
+    "description": "Growth report perhaps show feeling son others side quite local.",
+    "price": 17406,
+    "image": "https://picsum.photos/seed/Watches3/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "553d308e-0c84-4e1f-9015-3677fde7b713",
+    "name": "Watches Product 5",
+    "description": "Stock question cause president style cost ten his only woman.",
+    "price": 20166,
+    "image": "https://picsum.photos/seed/Watches4/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "d46332d3-a0a2-43d0-8801-b304d6731681",
+    "name": "Watches Product 6",
+    "description": "Report third truth star store move.",
+    "price": 90672,
+    "image": "https://picsum.photos/seed/Watches5/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "d94b2e91-cd9c-4d26-a213-f7c764cbc62d",
+    "name": "Watches Product 7",
+    "description": "Already everything political true hair plant environment.",
+    "price": 95954,
+    "image": "https://picsum.photos/seed/Watches6/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "90645aa7-23c6-44d5-81f1-ee47e57d09df",
+    "name": "Watches Product 8",
+    "description": "Thought laugh father someone region social trip five dream new.",
+    "price": 65486,
+    "image": "https://picsum.photos/seed/Watches7/200/150",
+    "category": "Watches"
+  },
+  {
+    "_id": "52d0e33a-e0e2-4164-8072-060e213d59ff",
+    "name": "Headphones Product 1",
+    "description": "In impact morning international surface.",
+    "price": 64356,
+    "image": "https://picsum.photos/seed/Headphones0/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "5f2c390f-e947-47d3-8c8e-bbabacb2f0e0",
+    "name": "Headphones Product 2",
+    "description": "Conference family police worker doctor product.",
+    "price": 82764,
+    "image": "https://picsum.photos/seed/Headphones1/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "cfdb2d45-badf-4032-8eac-8d27bcbdcadb",
+    "name": "Headphones Product 3",
+    "description": "White recognize off piece fire focus coach.",
+    "price": 60259,
+    "image": "https://picsum.photos/seed/Headphones2/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "44c61ca9-1e2f-48f6-97e6-c32d1dd979fa",
+    "name": "Headphones Product 4",
+    "description": "Than skill behavior town month mean.",
+    "price": 3448,
+    "image": "https://picsum.photos/seed/Headphones3/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "3a2b1caa-5ee1-4e80-98a0-1e26108e071d",
+    "name": "Headphones Product 5",
+    "description": "Notice media at for clearly mission memory force whether.",
+    "price": 90213,
+    "image": "https://picsum.photos/seed/Headphones4/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "227d53de-5063-468e-85e2-47962819c988",
+    "name": "Headphones Product 6",
+    "description": "Development success increase month street hundred thus third west tough manager.",
+    "price": 12587,
+    "image": "https://picsum.photos/seed/Headphones5/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "4b2a8dad-8b5f-45fe-95c6-e0f196d5e7f5",
+    "name": "Headphones Product 7",
+    "description": "Talk hour close value network ground.",
+    "price": 4053,
+    "image": "https://picsum.photos/seed/Headphones6/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "ad37d847-54f8-4034-a1e8-59964953e94c",
+    "name": "Headphones Product 8",
+    "description": "Where debate difficult face tree happen interesting vote.",
+    "price": 90425,
+    "image": "https://picsum.photos/seed/Headphones7/200/150",
+    "category": "Headphones"
+  },
+  {
+    "_id": "9d0061e6-61c8-47e4-89f7-47ba2fb9a3a8",
+    "name": "Shoes Product 1",
+    "description": "Social same station administration star thought.",
+    "price": 35873,
+    "image": "https://picsum.photos/seed/Shoes0/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "638599c8-c971-4bd1-aa91-05b6b9e8cd71",
+    "name": "Shoes Product 2",
+    "description": "Before account fly the whole military full.",
+    "price": 93701,
+    "image": "https://picsum.photos/seed/Shoes1/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "dc159c56-74a7-4a2c-9d09-63caf1fcda10",
+    "name": "Shoes Product 3",
+    "description": "Wear you magazine difference cultural specific not.",
+    "price": 34467,
+    "image": "https://picsum.photos/seed/Shoes2/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "b88e9350-6b56-47ce-8e7e-f00f2b6d796b",
+    "name": "Shoes Product 4",
+    "description": "Wife manager type every represent everyone do.",
+    "price": 25842,
+    "image": "https://picsum.photos/seed/Shoes3/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "49fac986-c506-42fa-a1c1-f4f323d3a3d6",
+    "name": "Shoes Product 5",
+    "description": "Task rock ten continue institution agreement brother grow street rise.",
+    "price": 40531,
+    "image": "https://picsum.photos/seed/Shoes4/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "feef83c0-fff2-4fab-822d-a24a1120e2c7",
+    "name": "Shoes Product 6",
+    "description": "Eight serve pressure note its low ever network trade.",
+    "price": 61941,
+    "image": "https://picsum.photos/seed/Shoes5/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "29aff75c-bbea-45f2-9ab2-ba09b803bf0e",
+    "name": "Shoes Product 7",
+    "description": "Exactly room time decide smile prevent short both administration but.",
+    "price": 97383,
+    "image": "https://picsum.photos/seed/Shoes6/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "74635da0-c886-4591-8fb9-cd85ab2201b9",
+    "name": "Shoes Product 8",
+    "description": "Next well several vote issue them we officer to.",
+    "price": 94745,
+    "image": "https://picsum.photos/seed/Shoes7/200/150",
+    "category": "Shoes"
+  },
+  {
+    "_id": "d4285322-a775-45eb-bdc9-562d9b3d7b30",
+    "name": "Cameras Product 1",
+    "description": "Sort water bit hundred after person radio threat campaign.",
+    "price": 91997,
+    "image": "https://picsum.photos/seed/Cameras0/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "58a00813-79f8-4c5d-8564-d71f4dc20ba7",
+    "name": "Cameras Product 2",
+    "description": "Next wait computer star attorney person collection return who.",
+    "price": 67381,
+    "image": "https://picsum.photos/seed/Cameras1/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "72b381d4-fed2-428b-876e-d04724b4956d",
+    "name": "Cameras Product 3",
+    "description": "Threat on do speak boy statement police century grow better.",
+    "price": 52120,
+    "image": "https://picsum.photos/seed/Cameras2/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "a12ae231-ed34-4a27-a724-7133c151d531",
+    "name": "Cameras Product 4",
+    "description": "Page theory body water Republican move huge cost suddenly among.",
+    "price": 83319,
+    "image": "https://picsum.photos/seed/Cameras3/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "1a6f6aae-8466-4b97-9521-1bbac86610ed",
+    "name": "Cameras Product 5",
+    "description": "Specific knowledge speech week information middle key put full plant.",
+    "price": 81615,
+    "image": "https://picsum.photos/seed/Cameras4/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "88d34b81-0e9b-433a-afbb-f6550a26a406",
+    "name": "Cameras Product 6",
+    "description": "Decide employee reflect else rise clear.",
+    "price": 8195,
+    "image": "https://picsum.photos/seed/Cameras5/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "c2762a74-d67d-428d-acbf-b9e01c05d56e",
+    "name": "Cameras Product 7",
+    "description": "Cut value likely middle collection window television whose.",
+    "price": 10468,
+    "image": "https://picsum.photos/seed/Cameras6/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "3b3779a5-62f8-4b5c-bd1b-66ec09aa40a4",
+    "name": "Cameras Product 8",
+    "description": "Seat none hold security education want.",
+    "price": 73395,
+    "image": "https://picsum.photos/seed/Cameras7/200/150",
+    "category": "Cameras"
+  },
+  {
+    "_id": "6cee9fcf-d5a1-43a2-a70a-70475dc0b7aa",
+    "name": "Televisions Product 1",
+    "description": "Size me police direction industry explain simple four.",
+    "price": 4276,
+    "image": "https://picsum.photos/seed/Televisions0/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "82d8ea46-2e77-4cba-a9d6-d465878745ae",
+    "name": "Televisions Product 2",
+    "description": "He production see decision analysis charge suddenly person leave.",
+    "price": 43315,
+    "image": "https://picsum.photos/seed/Televisions1/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "9f9630ce-8552-43f9-a526-d7c22d666b1d",
+    "name": "Televisions Product 3",
+    "description": "College together section century science.",
+    "price": 1757,
+    "image": "https://picsum.photos/seed/Televisions2/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "aad2e917-42d8-4835-a18c-5e7d6a64c4b7",
+    "name": "Televisions Product 4",
+    "description": "Think you thought entire imagine individual sell hope although.",
+    "price": 52401,
+    "image": "https://picsum.photos/seed/Televisions3/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "47288859-3aac-414c-8691-2039fadd3708",
+    "name": "Televisions Product 5",
+    "description": "Dinner style our play condition interesting human person use lose.",
+    "price": 67867,
+    "image": "https://picsum.photos/seed/Televisions4/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "c2c4ff44-4c33-415f-ad5c-cfad22510f37",
+    "name": "Televisions Product 6",
+    "description": "Prevent available need former gun.",
+    "price": 3153,
+    "image": "https://picsum.photos/seed/Televisions5/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "6b3c5358-e13e-4d2b-9197-3722e011c840",
+    "name": "Televisions Product 7",
+    "description": "Short Democrat call stand local beyond chair expert near project.",
+    "price": 88672,
+    "image": "https://picsum.photos/seed/Televisions6/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "efe024ec-a28b-4f38-a272-38f2b90f26fe",
+    "name": "Televisions Product 8",
+    "description": "More buy method specific business media.",
+    "price": 88736,
+    "image": "https://picsum.photos/seed/Televisions7/200/150",
+    "category": "Televisions"
+  },
+  {
+    "_id": "73e8ab4f-f3e7-4018-bfce-e3c87c07bee9",
+    "name": "Furniture Product 1",
+    "description": "Build pick conference own although pattern agreement.",
+    "price": 28885,
+    "image": "https://picsum.photos/seed/Furniture0/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "c1bdbe2f-9c74-4dce-b7e3-f1d5b2e42740",
+    "name": "Furniture Product 2",
+    "description": "Let capital few peace hope senior heart blood kind.",
+    "price": 29118,
+    "image": "https://picsum.photos/seed/Furniture1/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "ad38c6ae-eed1-44e4-a2bb-428c28101d01",
+    "name": "Furniture Product 3",
+    "description": "None while thus wish loss skill reveal.",
+    "price": 37112,
+    "image": "https://picsum.photos/seed/Furniture2/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "133fdd37-9154-471d-bee2-3d4d272674c4",
+    "name": "Furniture Product 4",
+    "description": "Specific garden usually truth today fine fill maintain the design.",
+    "price": 2760,
+    "image": "https://picsum.photos/seed/Furniture3/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "3a12a97e-6e57-4bfa-87f9-18593a848878",
+    "name": "Furniture Product 5",
+    "description": "Way leave interesting when whole true open responsibility.",
+    "price": 63245,
+    "image": "https://picsum.photos/seed/Furniture4/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "172827b4-b65d-4f66-aaa3-3b642fad5e6d",
+    "name": "Furniture Product 6",
+    "description": "Low support north only let here.",
+    "price": 41512,
+    "image": "https://picsum.photos/seed/Furniture5/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "9e94040a-c51b-4863-8a31-834e99ebd173",
+    "name": "Furniture Product 7",
+    "description": "Have painting modern lay identify.",
+    "price": 18901,
+    "image": "https://picsum.photos/seed/Furniture6/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "c49313bd-9a90-45c9-b6e1-0abc98e679e6",
+    "name": "Furniture Product 8",
+    "description": "Economy figure everyone among around include development ball radio approach animal.",
+    "price": 64301,
+    "image": "https://picsum.photos/seed/Furniture7/200/150",
+    "category": "Furniture"
+  },
+  {
+    "_id": "ef6deff4-d58d-4318-b74f-57ba054641b0",
+    "name": "Books Product 1",
+    "description": "Cell team nor too can trip.",
+    "price": 78805,
+    "image": "https://picsum.photos/seed/Books0/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "b2d1f0f4-9120-4383-ab8e-154b165652c4",
+    "name": "Books Product 2",
+    "description": "Success him message manage level table owner thought dream gas.",
+    "price": 37233,
+    "image": "https://picsum.photos/seed/Books1/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "e12c65a1-2c57-438b-a878-ade8ce3b92a7",
+    "name": "Books Product 3",
+    "description": "Road while fly rate else skin mind society fact.",
+    "price": 74473,
+    "image": "https://picsum.photos/seed/Books2/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "81fb853a-efc9-4949-8285-ec7d8559ee8a",
+    "name": "Books Product 4",
+    "description": "Plan memory major near reduce daughter director least energy.",
+    "price": 85773,
+    "image": "https://picsum.photos/seed/Books3/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "38f70988-b8e0-421e-816b-00bc2566e0b6",
+    "name": "Books Product 5",
+    "description": "Now service bill sister rich PM personal himself property score.",
+    "price": 33349,
+    "image": "https://picsum.photos/seed/Books4/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "66ec8676-9501-4b0d-94f9-ad5a30d93804",
+    "name": "Books Product 6",
+    "description": "Event high anything spend green son individual term pay agree.",
+    "price": 28756,
+    "image": "https://picsum.photos/seed/Books5/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "10c33859-5c6b-4aaa-aa27-fdf54c68173a",
+    "name": "Books Product 7",
+    "description": "Remain happy hit thousand real which sea reality.",
+    "price": 88053,
+    "image": "https://picsum.photos/seed/Books6/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "41bafee5-494f-4696-89a5-b53de7d9e9f4",
+    "name": "Books Product 8",
+    "description": "Stop just identify building get create news.",
+    "price": 84971,
+    "image": "https://picsum.photos/seed/Books7/200/150",
+    "category": "Books"
+  },
+  {
+    "_id": "c19039b3-0256-4b58-9280-830b0236eb1c",
+    "name": "Gaming Product 1",
+    "description": "Wide himself long vote purpose manage tend job goal worry.",
+    "price": 62061,
+    "image": "https://picsum.photos/seed/Gaming0/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "2e7a9987-552c-4216-9c33-af7e762c8fab",
+    "name": "Gaming Product 2",
+    "description": "Away purpose friend whole you these else determine.",
+    "price": 32462,
+    "image": "https://picsum.photos/seed/Gaming1/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "debc53cb-fc5a-4526-a7dc-b787f5f24983",
+    "name": "Gaming Product 3",
+    "description": "Year capital civil after throw.",
+    "price": 20801,
+    "image": "https://picsum.photos/seed/Gaming2/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "5f853312-78bd-4e94-810a-d56b7acf5cd6",
+    "name": "Gaming Product 4",
+    "description": "Expect physical yet remain federal.",
+    "price": 26118,
+    "image": "https://picsum.photos/seed/Gaming3/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "ccb40ac3-fecc-440d-a58c-55baeaded28b",
+    "name": "Gaming Product 5",
+    "description": "Yet anything arm better civil late him democratic raise.",
+    "price": 86943,
+    "image": "https://picsum.photos/seed/Gaming4/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "a03d5340-cd28-48e5-83e8-3037dc3b6c05",
+    "name": "Gaming Product 6",
+    "description": "Gun doctor yeah visit enjoy top pull.",
+    "price": 77668,
+    "image": "https://picsum.photos/seed/Gaming5/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "25216170-afaa-4e71-adb4-9da7fa565d5a",
+    "name": "Gaming Product 7",
+    "description": "Night fill rule book full kitchen building seat trial.",
+    "price": 20708,
+    "image": "https://picsum.photos/seed/Gaming6/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "f7811f7f-759a-4e81-aa6c-1db19894af8e",
+    "name": "Gaming Product 8",
+    "description": "Dinner matter long focus three save.",
+    "price": 85819,
+    "image": "https://picsum.photos/seed/Gaming7/200/150",
+    "category": "Gaming"
+  },
+  {
+    "_id": "28c7eed4-3642-472d-b3a9-e8ec8725718d",
+    "name": "Appliances Product 1",
+    "description": "Partner respond particular agent forget marriage shoulder.",
+    "price": 23428,
+    "image": "https://picsum.photos/seed/Appliances0/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "ee49f87a-86c0-4a04-be31-fbde9765deec",
+    "name": "Appliances Product 2",
+    "description": "Middle fire Mrs citizen boy ten many open.",
+    "price": 38680,
+    "image": "https://picsum.photos/seed/Appliances1/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "14f23547-c03d-446a-9a67-29f2a59ee4b4",
+    "name": "Appliances Product 3",
+    "description": "On partner you structure.",
+    "price": 42906,
+    "image": "https://picsum.photos/seed/Appliances2/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "f58875e8-055b-44f4-8c49-e124563d73c5",
+    "name": "Appliances Product 4",
+    "description": "State and final smile huge life relationship lose together.",
+    "price": 38844,
+    "image": "https://picsum.photos/seed/Appliances3/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "8f523c97-7041-4faf-8220-90b00b6da1fa",
+    "name": "Appliances Product 5",
+    "description": "List attack believe during although deep production compare middle citizen.",
+    "price": 39633,
+    "image": "https://picsum.photos/seed/Appliances4/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "74f7e947-d2f6-4806-971f-53f7432ac7f3",
+    "name": "Appliances Product 6",
+    "description": "Style resource expert every surface happen give responsibility choice.",
+    "price": 36900,
+    "image": "https://picsum.photos/seed/Appliances5/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "32934f68-4613-457e-9097-cfbe9b02754f",
+    "name": "Appliances Product 7",
+    "description": "This TV third most still.",
+    "price": 21618,
+    "image": "https://picsum.photos/seed/Appliances6/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "16d680a5-6276-4bfa-ba7b-cd0c498f534d",
+    "name": "Appliances Product 8",
+    "description": "Page camera maybe especially we down administration peace.",
+    "price": 98692,
+    "image": "https://picsum.photos/seed/Appliances7/200/150",
+    "category": "Appliances"
+  },
+  {
+    "_id": "f808758f-5f64-465e-abc2-c215addc4e98",
+    "name": "Toys Product 1",
+    "description": "Left site spring age its.",
+    "price": 22795,
+    "image": "https://picsum.photos/seed/Toys0/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "aff9c116-6d92-4eaa-bd99-f909f8d6e169",
+    "name": "Toys Product 2",
+    "description": "Fact movement pass team answer.",
+    "price": 8288,
+    "image": "https://picsum.photos/seed/Toys1/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "5766c206-c3da-469d-963a-13193fea9a88",
+    "name": "Toys Product 3",
+    "description": "Manage hold move trade surface human financial despite.",
+    "price": 25299,
+    "image": "https://picsum.photos/seed/Toys2/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "69d7b2ac-2bf8-4be7-8ae2-d969bbb9a55c",
+    "name": "Toys Product 4",
+    "description": "Hard message condition stop economic newspaper.",
+    "price": 22850,
+    "image": "https://picsum.photos/seed/Toys3/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "9a11cc67-7cad-428a-b784-98323a0d5f5a",
+    "name": "Toys Product 5",
+    "description": "I boy site drop bring song up local way.",
+    "price": 49419,
+    "image": "https://picsum.photos/seed/Toys4/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "1b78c2f3-f0c7-4e07-956a-3cd92ff364ce",
+    "name": "Toys Product 6",
+    "description": "Brother lawyer member stuff home.",
+    "price": 56623,
+    "image": "https://picsum.photos/seed/Toys5/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "5d7b143f-42fa-4030-937b-400b0bc55afa",
+    "name": "Toys Product 7",
+    "description": "Yes history ever I put those.",
+    "price": 59903,
+    "image": "https://picsum.photos/seed/Toys6/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "466b716a-6a31-4402-a2bb-b7662386ce78",
+    "name": "Toys Product 8",
+    "description": "Degree eye song week weight report clear happen buy case game.",
+    "price": 62029,
+    "image": "https://picsum.photos/seed/Toys7/200/150",
+    "category": "Toys"
+  },
+  {
+    "_id": "e3046076-946d-44e7-8d67-b699d130e409",
+    "name": "Clothing Product 1",
+    "description": "Need relate full hear again low usually say past discussion.",
+    "price": 5528,
+    "image": "https://picsum.photos/seed/Clothing0/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "0a9c08f4-4861-4cb5-a398-e3e1d1edfd88",
+    "name": "Clothing Product 2",
+    "description": "Bank similar fund beat head room.",
+    "price": 92479,
+    "image": "https://picsum.photos/seed/Clothing1/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "3e91dd8c-dc15-49f7-881e-77180a651f1e",
+    "name": "Clothing Product 3",
+    "description": "Night reason institution step entire.",
+    "price": 10821,
+    "image": "https://picsum.photos/seed/Clothing2/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "c8bfe7aa-59f2-4ca2-a00b-413562c9a773",
+    "name": "Clothing Product 4",
+    "description": "Southern particular seat chair data indeed certain difference recent account.",
+    "price": 97905,
+    "image": "https://picsum.photos/seed/Clothing3/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "75001a70-6463-4686-8014-18318d07c1d0",
+    "name": "Clothing Product 5",
+    "description": "Assume between plant decade reduce either field decade.",
+    "price": 25782,
+    "image": "https://picsum.photos/seed/Clothing4/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "cb71dbee-3f5c-4bee-bd7c-176d90816e8d",
+    "name": "Clothing Product 6",
+    "description": "Until never measure either now.",
+    "price": 66249,
+    "image": "https://picsum.photos/seed/Clothing5/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "7665439a-16a7-4d60-b9da-533762438ae4",
+    "name": "Clothing Product 7",
+    "description": "Edge let mouth clear evidence price past hospital stage.",
+    "price": 14089,
+    "image": "https://picsum.photos/seed/Clothing6/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "f1a9c14e-70ea-4b93-b234-4b4224d9a9b3",
+    "name": "Clothing Product 8",
+    "description": "Blue particular body society down bar become ok writer opportunity once.",
+    "price": 64394,
+    "image": "https://picsum.photos/seed/Clothing7/200/150",
+    "category": "Clothing"
+  },
+  {
+    "_id": "ed121bd7-3489-4954-9071-e870ad6c9d30",
+    "name": "Beauty Product 1",
+    "description": "Her get Mrs eye each.",
+    "price": 95689,
+    "image": "https://picsum.photos/seed/Beauty0/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "5c87938c-ab70-44c3-846e-03d58724805a",
+    "name": "Beauty Product 2",
+    "description": "Exactly black rule forward end.",
+    "price": 19749,
+    "image": "https://picsum.photos/seed/Beauty1/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "ab8fd509-8d85-4671-954d-a138a3e4509f",
+    "name": "Beauty Product 3",
+    "description": "Send election board fire character official forward ground fast look.",
+    "price": 41411,
+    "image": "https://picsum.photos/seed/Beauty2/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "2737b73a-1a4e-4624-a586-1c32531ba637",
+    "name": "Beauty Product 4",
+    "description": "Politics official quality reach east dog move charge serious kind.",
+    "price": 25702,
+    "image": "https://picsum.photos/seed/Beauty3/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "172872fb-b3ff-4a12-8c44-a9176bbd143e",
+    "name": "Beauty Product 5",
+    "description": "Really where shoulder yes open church although air.",
+    "price": 11721,
+    "image": "https://picsum.photos/seed/Beauty4/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "9316f1ee-fec2-445f-80ae-6e1e99342417",
+    "name": "Beauty Product 6",
+    "description": "Sea simply around teacher term magazine visit possible put well.",
+    "price": 87869,
+    "image": "https://picsum.photos/seed/Beauty5/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "6f147c82-e7a4-4eb6-aa23-ffcd00261872",
+    "name": "Beauty Product 7",
+    "description": "Including draw word store work.",
+    "price": 61703,
+    "image": "https://picsum.photos/seed/Beauty6/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "87e18e84-14b4-4348-ae56-971f4c64ca41",
+    "name": "Beauty Product 8",
+    "description": "Out final forward soldier hope interview day store.",
+    "price": 54059,
+    "image": "https://picsum.photos/seed/Beauty7/200/150",
+    "category": "Beauty"
+  },
+  {
+    "_id": "a2c55da5-ba06-47f2-8555-125c6449e5c1",
+    "name": "Sports Product 1",
+    "description": "Sing fine I area their minute number vote.",
+    "price": 46981,
+    "image": "https://picsum.photos/seed/Sports0/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "cdc5981e-e7fb-400a-b26c-bf596b5347d1",
+    "name": "Sports Product 2",
+    "description": "Him person shoulder marriage however continue.",
+    "price": 56063,
+    "image": "https://picsum.photos/seed/Sports1/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "f50bd06f-1595-4e95-9835-36377d5815dc",
+    "name": "Sports Product 3",
+    "description": "As guy now under consumer take.",
+    "price": 4296,
+    "image": "https://picsum.photos/seed/Sports2/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "8fe60518-fa49-4ccb-aa58-309fbc0ed2a2",
+    "name": "Sports Product 4",
+    "description": "Shoulder available hotel my major simple consider a discover among.",
+    "price": 13618,
+    "image": "https://picsum.photos/seed/Sports3/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "4f2a1c26-64ab-4cc8-8ae0-5261941e61af",
+    "name": "Sports Product 5",
+    "description": "Here water four debate base on everybody onto.",
+    "price": 51435,
+    "image": "https://picsum.photos/seed/Sports4/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "55d10d87-bcba-491b-85ba-cc688aaec6ed",
+    "name": "Sports Product 6",
+    "description": "Much concern pass Democrat federal.",
+    "price": 90540,
+    "image": "https://picsum.photos/seed/Sports5/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "35f44945-517d-4e69-9e42-9afa1220f769",
+    "name": "Sports Product 7",
+    "description": "All pass will success everyone party notice short.",
+    "price": 72608,
+    "image": "https://picsum.photos/seed/Sports6/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "84ab538b-3cbb-44c2-a7fe-b1fb3de7b1e3",
+    "name": "Sports Product 8",
+    "description": "Industry reach nearly policy must gun ten.",
+    "price": 64944,
+    "image": "https://picsum.photos/seed/Sports7/200/150",
+    "category": "Sports"
+  },
+  {
+    "_id": "93fc8026-3a21-461e-a5d2-f55f5aeb939a",
+    "name": "Home Decor Product 1",
+    "description": "Set American clearly area key.",
+    "price": 94701,
+    "image": "https://picsum.photos/seed/HomeDecor0/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "c9066951-d079-46f5-ae05-26baf12efde7",
+    "name": "Home Decor Product 2",
+    "description": "Receive throughout bar room measure wall adult current peace treatment.",
+    "price": 86599,
+    "image": "https://picsum.photos/seed/HomeDecor1/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "1fe0aac7-9841-4437-bdae-ec736c6e4437",
+    "name": "Home Decor Product 3",
+    "description": "Center serious thus body discussion task reveal over.",
+    "price": 87789,
+    "image": "https://picsum.photos/seed/HomeDecor2/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "67866fb3-7dfa-4a3a-ae4b-4877a6632908",
+    "name": "Home Decor Product 4",
+    "description": "Deal minute individual themselves newspaper very tonight figure under result.",
+    "price": 37824,
+    "image": "https://picsum.photos/seed/HomeDecor3/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "bf95062c-1e92-4bc7-9af0-41d045e182d6",
+    "name": "Home Decor Product 5",
+    "description": "Discussion drop grow task several control south Mrs.",
+    "price": 28993,
+    "image": "https://picsum.photos/seed/HomeDecor4/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "7c2e74bd-5877-435b-8bb3-74552a0a14ae",
+    "name": "Home Decor Product 6",
+    "description": "Here white stand decade small reflect myself.",
+    "price": 45926,
+    "image": "https://picsum.photos/seed/HomeDecor5/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "b60deff3-3fd1-4d29-9922-692a6d3c7141",
+    "name": "Home Decor Product 7",
+    "description": "Attorney none into home like institution girl ever.",
+    "price": 25818,
+    "image": "https://picsum.photos/seed/HomeDecor6/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "1d3b4885-6887-49cd-a07c-d4571abdc2fe",
+    "name": "Home Decor Product 8",
+    "description": "Create establish prove PM explain trip this.",
+    "price": 48595,
+    "image": "https://picsum.photos/seed/HomeDecor7/200/150",
+    "category": "Home Decor"
+  },
+  {
+    "_id": "89a97181-9253-4beb-8294-198943b9a944",
+    "name": "Kitchen Product 1",
+    "description": "Movie place production they.",
+    "price": 16504,
+    "image": "https://picsum.photos/seed/Kitchen0/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "b1597be8-2f1b-4e15-b27e-7bbd51446445",
+    "name": "Kitchen Product 2",
+    "description": "Down animal eight air out.",
+    "price": 5868,
+    "image": "https://picsum.photos/seed/Kitchen1/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "4a523ebf-797a-49c2-9b9e-df7b40883d09",
+    "name": "Kitchen Product 3",
+    "description": "Matter always game test daughter specific toward gun total blood.",
+    "price": 56146,
+    "image": "https://picsum.photos/seed/Kitchen2/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "6f00ac45-90cf-4115-a40f-6f87e8bc2a2d",
+    "name": "Kitchen Product 4",
+    "description": "Put drive adult clear chair.",
+    "price": 95020,
+    "image": "https://picsum.photos/seed/Kitchen3/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "01d898c1-b64f-432b-9d0a-a45ddb3ae969",
+    "name": "Kitchen Product 5",
+    "description": "Visit use take media give him.",
+    "price": 30467,
+    "image": "https://picsum.photos/seed/Kitchen4/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "219e12df-50eb-4c89-90c4-82750d500f4e",
+    "name": "Kitchen Product 6",
+    "description": "Eye day fine discover full reflect and student.",
+    "price": 47544,
+    "image": "https://picsum.photos/seed/Kitchen5/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "ea8d0ab3-5beb-449c-846b-22cdb95ae8c3",
+    "name": "Kitchen Product 7",
+    "description": "Discussion general yes away parent unit could wait.",
+    "price": 5150,
+    "image": "https://picsum.photos/seed/Kitchen6/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "d8e288fd-ee84-42bd-9a9f-faf63ded6fca",
+    "name": "Kitchen Product 8",
+    "description": "Box end fly race paper.",
+    "price": 2652,
+    "image": "https://picsum.photos/seed/Kitchen7/200/150",
+    "category": "Kitchen"
+  },
+  {
+    "_id": "d274016c-aa8e-4bd9-a4fc-3accdabbd4c5",
+    "name": "Fitness Product 1",
+    "description": "Visit should along pattern tonight international series color realize goal.",
+    "price": 4861,
+    "image": "https://picsum.photos/seed/Fitness0/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "94ba0b3a-db16-46f0-b68c-d62cd3960f61",
+    "name": "Fitness Product 2",
+    "description": "Ever drive news support often institution if personal career.",
+    "price": 4508,
+    "image": "https://picsum.photos/seed/Fitness1/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "05d2e414-4d09-4f0a-bbae-10b9ea35d88d",
+    "name": "Fitness Product 3",
+    "description": "Edge pattern early ago during blood.",
+    "price": 65632,
+    "image": "https://picsum.photos/seed/Fitness2/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "96a0dcba-7b65-4c9a-9e18-7a09d7c5f11c",
+    "name": "Fitness Product 4",
+    "description": "Federal throw side five.",
+    "price": 27363,
+    "image": "https://picsum.photos/seed/Fitness3/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "938b6818-95f7-4cb2-ad94-b088fadab371",
+    "name": "Fitness Product 5",
+    "description": "Part writer for dog score state.",
+    "price": 15432,
+    "image": "https://picsum.photos/seed/Fitness4/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "e565d76d-37ab-44da-9e91-dc900cfa1845",
+    "name": "Fitness Product 6",
+    "description": "Allow keep owner will write relate whatever.",
+    "price": 28739,
+    "image": "https://picsum.photos/seed/Fitness5/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "81729f15-d99b-4971-b08d-83b6230b2231",
+    "name": "Fitness Product 7",
+    "description": "Expect task character price minute theory ability PM home.",
+    "price": 88001,
+    "image": "https://picsum.photos/seed/Fitness6/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "b8012853-ace9-4a94-90f2-a639e8391136",
+    "name": "Fitness Product 8",
+    "description": "Behavior all mouth age lead design meet.",
+    "price": 66421,
+    "image": "https://picsum.photos/seed/Fitness7/200/150",
+    "category": "Fitness"
+  },
+  {
+    "_id": "f50a2d58-c8ff-49c9-b96e-5c4714d33369",
+    "name": "Accessories Product 1",
+    "description": "Officer value wall glass morning appear.",
+    "price": 85401,
+    "image": "https://picsum.photos/seed/Accessories0/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "09219684-b27e-47d4-8eaa-151f42c151bc",
+    "name": "Accessories Product 2",
+    "description": "Fight health reach listen speech leg cover.",
+    "price": 81892,
+    "image": "https://picsum.photos/seed/Accessories1/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "b678fd61-55c0-405c-8851-00006b08211c",
+    "name": "Accessories Product 3",
+    "description": "Class action either score significant cell.",
+    "price": 56985,
+    "image": "https://picsum.photos/seed/Accessories2/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "e60da9d0-1d36-4d51-81e3-ec265b5c9a32",
+    "name": "Accessories Product 4",
+    "description": "Trip matter real whole floor.",
+    "price": 18526,
+    "image": "https://picsum.photos/seed/Accessories3/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "ca00ad06-d192-4a25-9ff1-d1187b961b96",
+    "name": "Accessories Product 5",
+    "description": "Back kitchen education political attack.",
+    "price": 62166,
+    "image": "https://picsum.photos/seed/Accessories4/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "68ba25c3-45ca-46af-b70f-3939af0315af",
+    "name": "Accessories Product 6",
+    "description": "Check middle Congress so unit arrive service answer well assume.",
+    "price": 72799,
+    "image": "https://picsum.photos/seed/Accessories5/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "a5edc7e3-e1e7-4b2a-a2e9-5d460d335883",
+    "name": "Accessories Product 7",
+    "description": "Myself wait behind fall again amount or.",
+    "price": 22772,
+    "image": "https://picsum.photos/seed/Accessories6/200/150",
+    "category": "Accessories"
+  },
+  {
+    "_id": "472efd64-9704-40cb-87bd-49d1259d7762",
+    "name": "Accessories Product 8",
+    "description": "Between natural not enter late because child clearly cut.",
+    "price": 1368,
+    "image": "https://picsum.photos/seed/Accessories7/200/150",
+    "category": "Accessories"
+  }
+]
